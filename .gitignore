@@ -1,0 +1,6 @@
+
+mnist
+*.egg*
+.vscode
+
+.ipynb_checkpoints
